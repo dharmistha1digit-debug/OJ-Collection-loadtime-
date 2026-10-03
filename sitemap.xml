@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- This is the parent sitemap linking to additional sitemaps for products, collections and pages as shown below. The sitemap can not be edited manually, but is kept up to date in real time. -->
+  <sitemap>
+    <loc>https://www.ourosjewels.com/sitemap_agentic_discovery.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.ourosjewels.com/sitemap_products_1.xml?from=6632872804536&amp;to=9561940459824</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.ourosjewels.com/sitemap_products_2.xml?from=9564926083376&amp;to=10105685377328</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.ourosjewels.com/sitemap_products_3.xml?from=10105690751280&amp;to=15328437666096</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.ourosjewels.com/sitemap_pages_1.xml?from=76365365432&amp;to=162215461168</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.ourosjewels.com/sitemap_collections_1.xml?from=265542598840&amp;to=512999260464</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.ourosjewels.com/sitemap_blogs_1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.ourosjewels.com/es/sitemap_products_1.xml?from=6632872804536&amp;to=9561940459824</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.ourosjewels.com/es/sitemap_products_2.xml?from=9564926083376&amp;to=10105685377328</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.ourosjewels.com/es/sitemap_products_3.xml?from=10105690751280&amp;to=15328437666096</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.ourosjewels.com/es/sitemap_pages_1.xml?from=76365365432&amp;to=162215461168</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.ourosjewels.com/es/sitemap_collections_1.xml?from=265542598840&amp;to=512999260464</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.ourosjewels.com/es/sitemap_blogs_1.xml</loc>
+  </sitemap>
+</sitemapindex>
